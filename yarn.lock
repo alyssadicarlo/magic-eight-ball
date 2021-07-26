@@ -6764,6 +6764,11 @@ klona@^2.0.4:
   resolved "https://registry.yarnpkg.com/klona/-/klona-2.0.4.tgz#7bb1e3affb0cb8624547ef7e8f6708ea2e39dfc0"
   integrity sha512-ZRbnvdg/NxqzC7L9Uyqzf4psi1OM4Cuc+sJAkQPjO6XkQIJTNbfK2Rsmbw8fx1p2mkZdp2FZYo2+LwXYY/uwIA==
 
+konami@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/konami/-/konami-1.6.2.tgz#022a52efc23ba74c5b457cf2755af71386f28b29"
+  integrity sha512-6wljx0YS4Opt7HWiaZFfL2rxn17pqvEFZLyHxeGHgb64QwrS8oRkxYkV22kyciVzs3yqQFKWHqsEvLxuhuQlag==
+
 language-subtag-registry@~0.3.2:
   version "0.3.21"
   resolved "https://registry.yarnpkg.com/language-subtag-registry/-/language-subtag-registry-0.3.21.tgz#04ac218bea46f04cb039084602c6da9e788dd45a"
